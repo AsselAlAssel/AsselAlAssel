@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m building my profile and enahancing my social skills.
+- 🌱 I’m a Software Engineering student in my 4th year.
+- 💬 Here is my CV: [Assel AlAssel CV](https://docs.google.com/document/d/11Gt_kAHGMsqj8J7KWFcMxM5KXign_JMq3zRk795yagQ/edit)
+- ⚡ Fun fact: I am not a meme lord but I am a living meme.
+<br/>
 
 <p align="left">
         <a target="_blank" href="https://www.linkedin.com/in/aseel-alaseel-bb952a193/" >
