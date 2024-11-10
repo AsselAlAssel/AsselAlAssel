@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m building my profile and enahancing my social skills.
-- 🌱 I’m a Software Engineering student in my 4th year.
+- 🌱 I’m a Software Engineering.
 - 💬 Here is my CV: [Assel AlAssel CV](https://docs.google.com/document/d/1hXYq9ePRHJ7osxrXBacjo89tr8bPWsD9/edit?usp=sharing&ouid=114729245969525526214&rtpof=true&sd=true)
 - ⚡ Fun fact: I am not a meme lord but I am a living meme.
 <br/>
