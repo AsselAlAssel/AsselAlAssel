@@ -24,7 +24,7 @@ Here are some ideas to get you started:
         <a target="_blank" href="https://www.linkedin.com/in/aseel-al-aseel-bb952a193/">
             <img width="40" height="40" alt="Assel AlAssel | LinkedIn" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg"/>
         </a>
-        <a target="_blank" href="https://www.instagram.com/assel.alassel_/?hl=en" >
+        <a target="_blank" href="https://www.instagram.com/assel_alassel81">
             <img width="40" height="40" alt="Assel AlAssel | Instagram" src="https://user-images.githubusercontent.com/62269745/151352769-630430ce-bb59-4414-b01b-1e26e17a7535.svg"/>
         </a>
         <a target="_blank" href="https://www.facebook.com/profile.php?id=100026678085331" >
